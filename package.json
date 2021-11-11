@@ -1,7 +1,7 @@
 {
   "name": "words_blacklist",
   "description": "A collection of words to be blacklisted for subdomains.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.ts",
   "homepage": "https://github.com/TryParcel24/words_blacklist",
   "author": {
